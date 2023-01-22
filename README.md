@@ -1,9 +1,49 @@
-# Student-Enrollment-WebForm
-Webform Project with jsonpowerDB connectivity The code uses HTML, CSS, JavaScript, JQuery, and Bootstrap to create the form
-This code is for a webform project that uses jsonpowerDB connectivity. The code is written in HTML, CSS, JavaScript, JQuery and Bootstrap to create a form for student enrollment. 
-The form includes input fields for Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date and a save button. 
-The JavaScript code includes a function called saveStudent() that is used to validate the form data and send a PUT request to an API. 
-The PUT request includes the form data as a JSON string, which is used to update the student's information in the database. 
-The primary key of the table is Roll No. The script uses JQuery to get the values from the form fields, check if they are not empty, and create 
-a JSON object with the form data. The script also uses the JQuery library to make an ajax request to jsonpowerDB to send the data.
-The code also use Bootstrap for styling the form.
+#Student Enrollment Form
+
+Description: This project is a student enrollment form built using Bootstrap and jQuery. The form includes fields for roll number, full name, class, birth date, address, and enrollment date. The form also includes JavaScript functions for validating and saving the form data.
+
+Benefits of using JsonPowerDB:
+
+JsonPowerDB is a powerful and fast JSON database that can be easily integrated with web applications.
+It allows for easy storage and retrieval of JSON data, making it a great choice for storing student enrollment information.
+JsonPowerDB has a simple and intuitive API, making it easy to use for developers of all skill levels.
+Release History:
+
+0.0.3: Initial release of JsonPowerDB-related code on Github.
+Table of contents:
+
+Introduction
+Benefits of using JsonPowerDB
+Release History
+Technical details
+Installation
+Examples of use
+Project status
+Sources
+Other information
+Illustrations:
+
+Screenshots of the student enrollment form
+Flowchart of the form validation and data saving process
+Scope of functionalities:
+
+Validation of form fields
+Saving of form data to JsonPowerDB
+Retrieval of stored data from JsonPowerDB
+Examples of use:
+
+Storing and retrieving student enrollment information for a school or university
+Storing and retrieving customer information for a business
+Project status:
+
+In development
+Sources:
+
+JsonPowerDB (https://github.com/jsonpowerdb)
+Bootstrap (https://getbootstrap.com/)
+jQuery (https://jquery.com/)
+Other information:
+
+This project is built using Bootstrap version 3.4.1 and jQuery version 3.5.1
+The JavaScript functions for form validation and data saving are located in the file "jpdb-commons.js"
+Note: The given code is a basic html and js form with no special functionality of JsonPowerDB, rather it just include the JsonPowerDB's script link. So it is not a complete project and need further development to make it a functional project.
