@@ -1,4 +1,4 @@
-#Student Enrollment Form
+Title of the Project: Student Enrollment Form
 
 Description: This project is a student enrollment form built using Bootstrap and jQuery. The form includes fields for roll number, full name, class, birth date, address, and enrollment date. The form also includes JavaScript functions for validating and saving the form data.
 
