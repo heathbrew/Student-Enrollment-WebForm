@@ -25,6 +25,12 @@ Illustrations:
 
 Screenshots of the student enrollment form
 Flowchart of the form validation and data saving process
+![image](https://user-images.githubusercontent.com/55629425/213910334-b3650482-a082-4ff7-9207-3036da4d298b.png)
+![image](https://user-images.githubusercontent.com/55629425/213910389-022ba80b-57c4-4dd2-8ba2-aa643f7e233b.png)
+![image](https://user-images.githubusercontent.com/55629425/213910406-ac0b1ba3-d476-44ba-adc6-c14e9d2271fb.png)
+![image](https://user-images.githubusercontent.com/55629425/213910413-0dc02303-24ce-45e0-8f28-f5c763402fdd.png)
+
+
 Scope of functionalities:
 
 Validation of form fields
